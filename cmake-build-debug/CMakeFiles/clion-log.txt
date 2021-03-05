@@ -1,0 +1,6 @@
+/home/qwe/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/qwe/ORB_SLAM2
+Build type: Debug
+-- Using flag -std=c++11.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/qwe/ORB_SLAM2/cmake-build-debug
