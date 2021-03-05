@@ -6,7 +6,7 @@ ORB-SLAM2-ObjectTracking
 
 a modified version of ORB-SLAM2 folked from ORB-SLAM2 (https://github.com/raulmur/ORB_SLAM2)
 
-ORB-SLAM2-OT can label and tracking the moving objects in the input image with Kernel Correlation Filter(https://github.com/joaofaro/KCFcpp)
+ORB-SLAM2-OT can label and track the moving objects in the input image with Kernel Correlation Filter(https://github.com/joaofaro/KCFcpp)
 
 <a href="https://github.com/iewang117/ORB-SLAM2-OT/blob/main/1" target="_blank"><img src="https://github.com/iewang117/ORB-SLAM2-OT/blob/main/1.png" 
 alt="ORB-SLAM2-OT" width="240" height="180" border="10" /></a>
